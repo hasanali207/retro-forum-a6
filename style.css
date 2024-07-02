@@ -1,0 +1,37 @@
+.mulish {
+  font-family: "Mulish", sans-serif;
+}
+.inter {
+  font-family: "Inter", sans-serif;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+}
+/* .black{
+    color:12132D;
+}
+.violet{
+    color: 797DFC;
+} */
+
+body {
+  font-family: "Mulish", sans-serif;
+  color: #12132d;
+}
+.gradient-text {
+  background: -webkit-linear-gradient(#79ccfc, #797dfc30);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.profile-img{
+    width: 120px;
+}
+.profile-img img {
+  width: 120px;
+  border-radius: 24px;
+  cursor: pointer;
+}
+
